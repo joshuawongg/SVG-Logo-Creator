@@ -22,9 +22,9 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 
-a
 
 
 
 ![image](https://github.com/joshuawongg/SVG-Logo-Creator/assets/103795053/f95f39be-375f-4cb2-9ff8-dffcd58034f2)
 
+Link to video demo: https://drive.google.com/file/d/1qQPWIiA60IB95CzDksJVPGz9xs4jhMZB/view
